@@ -153,8 +153,8 @@ class Me:
 <summary><h4>GitHub User Interactions</h4></summary>
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=PodYapolskiy">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/PodYapolskiy?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=axonstan">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/axonstan?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </details>
