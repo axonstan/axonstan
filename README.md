@@ -1,11 +1,11 @@
 # ⚡ Hi, it's me, not Mario, Anatoly ⚡
 
 [![anatoly.tatar](https://img.shields.io/badge/anatoly-tatar-000000?style=for-the-badge&logo=&logoColor=white)](https://anatoly.tatar/)
-[![CV](https://img.shields.io/badge/CV-fff?style=for-the-badge&logo=&logoColor=black)](https://anatoly.tatar/en/cv)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/podyapolsky)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/podyapolskiyaa)
+[![CV](https://img.shields.io/badge/CV-fff?style=for-the-badge&logo=&logoColor=black)](https://anatoly.tatar/cv)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axonstan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/axonstan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/podyapolsky)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/podyapolskiy/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/axonstan/)
 
 <!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PodYapolskiy)  -->
 <!-- [![VKontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=vk)](https://vk.com/podyapolskiyaa) -->
